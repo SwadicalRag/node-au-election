@@ -1,0 +1,31 @@
+{
+  "name": "au-election",
+  "version": "1.0.0",
+  "description": "Federal election data for Australia from the ABC",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwadicalRag/node-au-election.git"
+  },
+  "author": "SwadicalRag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwadicalRag/node-au-election/issues"
+  },
+  "homepage": "https://github.com/SwadicalRag/node-au-election#readme",
+  "devDependencies": {
+    "vinyl-source-stream": "latest",
+    "browserify": "latest",
+    "watchify": "latest",
+    "tsify": "latest",
+    "gulp-typescript": "latest",
+    "gulp-notify": "latest",
+    "gulp-util": "latest"
+  },
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
