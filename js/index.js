@@ -22,3 +22,4 @@ function getData(callback) {
 }
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = getData;
+//# sourceMappingURL=index.js.map
